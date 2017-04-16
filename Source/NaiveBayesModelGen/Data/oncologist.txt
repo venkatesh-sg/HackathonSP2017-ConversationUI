@@ -1,0 +1,20 @@
+The three main division includes
+Medical oncologist: Doctor who treats cancer with chemotherapy, targeted therapy, immunotherapy and hormonal therapy.
+Surgical oncologist: Doctor who treats cancer with surgery.
+Radiation oncologist: Doctor who treats cancer with radiation.
+Sub-specialities in Oncology:
+Neuro-oncologist: Doctor who treats cancers of the brain.
+Ocular oncologist: Doctor who treats cancers of the eye.
+Head & Neck oncologist: Doctor who treats cancers of oral cavity, nasal cavity, oropharynx, hypopharyx and larynx.
+Thoracic oncologist: Doctor who treats cancers of lung, mediastinum, oesophagus and pleura.
+Breast oncologist: Doctor who treats cancers of breast
+Gastrointestinal oncologist: Doctor who treats cancers of stomach, colon, rectum, anal canal, liver, gallbladder, pancreas.
+Bone & Musculoskeletal oncology: focuses on cancers of bones and soft tissue.
+Genitourinary oncologist: Doctor who treats cancers of genital and urinary system.
+Gynecologic oncologist: Doctor who treats cancer cancers of the female reproductive system.
+Pediatric oncologist:Doctor who treats cancers in children.
+Hemato-oncologist: Doctor who treats cancers of blood and stem cell transplantation
+Geriatric oncologist: Doctor who treats cancers in elderly population.
+Pain & Palliative oncologist: Doctor who treats cancers of end stage to alleviate the suffering.
+Onco-pathologist: Doctor who diagnoses cancer by various tests including histopathology, immunohistochemistry, flowcytometry etc.
+Nuclear medicine oncologist: Doctor involved in diagnosis and treatment of cancer with radiopharmaceuticals.

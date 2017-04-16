@@ -1,0 +1,10 @@
+Allergy and immunology (treatment of immune system disorders)
+Cardiology (treatment of heart disorders)
+Endocrinology (treatment of hormonal disorders)
+Gastroenterology (treatment of digestive system disorders)
+Hematology (treatment of blood and bone marrow disorders)
+Infectious disease
+Nephrology (treatment of kidney disorders)
+Medical Oncology (treatment of cancer with medicine [e.g., chemotherapy])
+Pulmonology (treatment of lung disorders)
+Rheumatology (treatment of musculoskeletal disorders)
