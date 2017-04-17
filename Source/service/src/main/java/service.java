@@ -42,6 +42,8 @@ public class service extends HttpServlet {
             //Get the value of problem
             String value=parameters.get("problem").toString();
 
+            System.out.println("Problem from user is "+value);
+
             //Get relevant data of value to send it to NLP
             BufferedReader textreader = new BufferedReader(new FileReader("Data/"+value+".txt"));
             String query= "";
@@ -55,7 +57,7 @@ public class service extends HttpServlet {
             request_obj.put("TestData",query);
 
             //NLP and RandomForest hosted Url
-            String url = "NLP hosted url";
+            String url = "https://specialization.herokuapp.com/specializationgen";
             URL obj = new URL(url);
             //Opening new HTTP connection to get specialization
             HttpURLConnection con = (HttpURLConnection) obj.openConnection();
@@ -70,6 +72,7 @@ public class service extends HttpServlet {
             wr.writeBytes(request_obj.toString());
             wr.flush();
             wr.close();
+            System.out.println("Classification request sent to Classification Service hosted in Heroku");
 
             //Response from NLP service
             BufferedReader in = new BufferedReader(
@@ -174,9 +177,7 @@ public class service extends HttpServlet {
             js.put("displayText", "Making appointment with "+name+" at"+time);
             js.put("source", "UI");
             output=js.toString();
-
-            //TODO create UI for appointment
-
+            //we can add callender notification to user for the  appointment
         }
 
         resp.setHeader("Content-type", "application/json");
