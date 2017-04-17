@@ -21,7 +21,7 @@ https://github.com/nandanamudi/UMKC-HackathonSP2017-ConversationUI/blob/master/M
 
 **[Here is the video](https://www.youtube.com/watch?v=BVR6R2jYO_g) to our project which explains the description said above with a small demo of our project as shown below.**
 
-![22](https://github.com/venkatesh-sg/UMKC-HackathonSP2017-ConversationUI/blob/master/Documentation/ezgif.com-gif-maker%20(1).gif)
+<img src="https://github.com/venkatesh-sg/UMKC-HackathonSP2017-ConversationUI/blob/master/Documentation/ezgif.com-gif-maker%20(1).gif" width ="500px" height= "300px">
 
 
 
